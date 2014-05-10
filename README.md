@@ -10,6 +10,7 @@ Avatar  | Github | Blog | Description
 ![](https://avatars0.githubusercontent.com/u/82592?s=80 "Square") | https://github.com/square   | http://square.github.io/ | okhttp, fest-android, android-times-square, picasso, dagger, spoon
 ![](https://avatars3.githubusercontent.com/u/227486?s=80 "Chris Banes")  | https://github.com/chrisbanes | http://chris.banes.me/ | ActionBar-PullToRefresh, PhotoView, Android-BitmapCache, Android-PullToRefresh
 ![](https://avatars0.githubusercontent.com/u/1269143?s=80 "Jeremy Feinstein") | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | SlidingMenu, JazzyViewPager
+![](https://avatars3.githubusercontent.com/u/1223348?s=80 "Sergey Tarasevich") | https://github.com/nostra13 | http://nostra13android.blogspot.com/ | Android-Universal-Image-Loader
 ![](https://avatars3.githubusercontent.com/u/73924?s=80 "Koushik Dutta") | https://github.com/koush   | http://koush.com/  | Superuser, AndroidAsync, UrlImageViewHelper  
 ![](https://avatars2.githubusercontent.com/u/549365?s=80 "Simon Vig") | https://github.com/SimonVT |  http://simonvt.net/ | android-menudrawer, MessageBar 
 ![](https://avatars1.githubusercontent.com/u/92794?s=80 "Cyril Mottier") | https://github.com/cyrilmottier |  http://cyrilmottier.com/ | GreenDroid, Polaris
@@ -18,6 +19,7 @@ Avatar  | Github | Blog | Description
 ![](https://avatars2.githubusercontent.com/u/2700015?s=80 "Manuel Peinado") |  https://github.com/ManuelPeinado  |   | FadingActionBar, GlassActionBar, RefreshActionItem, QuickReturnHeader
 ![](https://avatars2.githubusercontent.com/u/242242?s=80 "greenrobot") | https://github.com/greenrobot | http://greenrobot.de/  | greenDAO, EventBus
 ![](https://avatars0.githubusercontent.com/u/175697?s=80 "Jeff Gilfelt") |  https://github.com/jgilfelt  |  http://jeffgilfelt.com  |  android-mapviewballoons, android-viewbadger, android-actionbarstylegenerator, android-sqlite-asset-helper
+![](https://avatars0.githubusercontent.com/u/100155?s=80 "Roman Nurik") | https://github.com/romannurik | http://roman.nurik.net/ | muzei, Android-SwipeToDismiss
 ![](https://avatars1.githubusercontent.com/u/4429434?s=80 "Flavien Laurent") | https://github.com/flavienlaurent | http://www.flavienlaurent.com | NotBoringActionBar, datetimepicker, discrollview
 ![](https://avatars0.githubusercontent.com/u/2583078?s=80 "Gabriele Mariotti") | https://github.com/gabrielemariotti | http://gmariotti.blogspot.it | cardslib, colorpickercollection
 ![](https://avatars0.githubusercontent.com/u/823858?s=80 "sephiroth74") | https://github.com/sephiroth74 |  http://www.sephiroth.it/ | ImageViewZoom, HorizontalVariableListView, AndroidWheel, purePDF

@@ -2,7 +2,7 @@ android-dev-com
 ==========  
 Some Famous Android Developers Information  
 
-[Chinese version](https://github.com/android-cn/android-dev-cn)
+[中文版本](https://github.com/android-cn/android-dev-cn)  
 
 Name  | Github | Blog | Description
 :------------- | :------------- | :------------- | :------------- 

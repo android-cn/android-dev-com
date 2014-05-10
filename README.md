@@ -1,6 +1,6 @@
 android-dev-com  
 ==========  
-Some Famous Android Developers Information  
+Some Famous Android Developers Information, Welcome to commit.  
 
 [中文版本](https://github.com/android-cn/android-dev-cn)  
 

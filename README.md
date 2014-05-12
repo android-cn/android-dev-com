@@ -28,3 +28,4 @@ Avatar  | Github | Blog | Description
 ![Christopher Jenkins](https://avatars0.githubusercontent.com/u/1167793?s=80 "Christopher Jenkins") | https://github.com/chrisjenx | http://about.me/chris.jenkins | Calligraphy, ParallaxScrollView
 ![Javier Pardo](https://avatars0.githubusercontent.com/u/1172221?s=80 "Javier Pardo") |  https://github.com/jpardogo | http://jpardogo.com | ListBuddies, FlabbyListView, GoogleProgressBar, FadingActionBar
 ![Chet Haase](https://lh4.googleusercontent.com/-alRF2kfXilM/AAAAAAAAAAI/AAAAAAAAH4U/1yMUbANZ_YY/s80-c/photo.jpg "Chet Haase")  |    |  http://graphics-geek.blogspot.com/ | Android framework UI team
+![Matthias Käppler](https://avatars2.githubusercontent.com/u/102802?s=80 "Matthias Käppler") | https://github.com/mttkay | http://mttkay.github.io/ | signpost, RxJava Android

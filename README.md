@@ -6,6 +6,7 @@ Some Famous Android Developers Information,  Welcome to [commit](https://github.
 
 Avatar  | Github | Blog | Description
 -------------: | :------------- | :------------- | :------------- 
+![Google Android](https://avatars3.githubusercontent.com/u/1342004?s=80 "Google Android") | https://github.com/google | http://android-developers.blogspot.com/ |  Google Android Developers Blog
 ![JakeWharton](https://avatars0.githubusercontent.com/u/66577?s=80 "JakeWharton") | https://github.com/JakeWharton | http://jakewharton.com/ |  ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife
 ![Square](https://avatars0.githubusercontent.com/u/82592?s=80 "Square") | https://github.com/square   | http://square.github.io/ | okhttp, fest-android, android-times-square, picasso, dagger, spoon
 ![Chris Banes](https://avatars3.githubusercontent.com/u/227486?s=80 "Chris Banes")  | https://github.com/chrisbanes | http://chris.banes.me/ | ActionBar-PullToRefresh, PhotoView, Android-BitmapCache, Android-PullToRefresh

@@ -2,7 +2,7 @@ android-dev-com
 ==========  
 Some Famous Android Developers Information,  Welcome to [commit](https://github.com/android-cn/android-dev-com/wiki "Standard of adding and editing content").  
 
-[中国部分Android开发者](https://github.com/android-cn/android-dev-cn)  
+[中国部分 Android 开发者](https://github.com/android-cn/android-dev-cn)  
 
 Avatar  | Github | Blog | Description
 -------------: | :------------- | :------------- | :------------- 

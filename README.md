@@ -2,8 +2,8 @@ android-dev-com
 ==========  
 Some Famous Android Developers Information,  Welcome to [commit](https://github.com/android-cn/android-dev-com/wiki "Standard of adding and editing content").  
 
-[中国部分 Android 开发者](https://github.com/android-cn/android-dev-cn)  
-分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2Fandroid-cn%2Fandroid-dev-com&title=%E5%9B%BD%E5%A4%96%E8%91%97%E5%90%8D+Android+%E5%BC%80%E5%8F%91%E8%80%85+Github+%E5%92%8C%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%A1%A5%E5%85%85%E5%92%8C%E6%8E%A8%E8%8D%90+%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/>  
+>[中国部分 Android 开发者](https://github.com/android-cn/android-dev-cn)  
+>分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2Fandroid-cn%2Fandroid-dev-com&title=%E5%9B%BD%E5%A4%96%E8%91%97%E5%90%8D+Android+%E5%BC%80%E5%8F%91%E8%80%85+Github+%E5%92%8C%E5%8D%9A%E5%AE%A2%E5%9C%B0%E5%9D%80%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%A1%A5%E5%85%85%E5%92%8C%E6%8E%A8%E8%8D%90+%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/>  
 
 Avatar  | Github | Blog | Description
 -------------: | :------------- | :------------- | :------------- 

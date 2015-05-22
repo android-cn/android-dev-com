@@ -34,5 +34,5 @@ Avatar  | Github | Blog | Description
 ![Matthias Käppler](https://avatars2.githubusercontent.com/u/102802?s=80 "Matthias Käppler") | https://github.com/mttkay | http://mttkay.github.io/ | signpost
 ![Daniel Lew](https://avatars3.githubusercontent.com/u/514850?s=80 "Daniel Lew") | https://github.com/dlew | http://blog.danlew.net/ | Android Tips
 ![FaceBook](https://avatars0.githubusercontent.com/u/69631?v=3&s=80 "FaceBook") | https://github.com/facebook | https://code.facebook.com/mobile/ | buck
-![Code Zen] | http://arpitonline.com/ | http://arpitonline.com/ | iOS Android
-![Styling Android] | https://plus.google.com/101161883485148457960?prsrc=3 | https://blog.stylingandroid.com/ | A techical guide to to improving the UI and UX Android apps
+Code Zen | | http://arpitonline.com/ | iOS Android
+![Styling Android](https://lh3.googleusercontent.com/-8MrsyY2gqwM/AAAAAAAAAAI/AAAAAAAAAC4/fhUUNvYEqqo/s80-c-k-no/photo.jpg) | [Google Plus](https://plus.google.com/101161883485148457960?prsrc=3) | https://blog.stylingandroid.com/ | A techical guide to to improving the UI and UX Android apps

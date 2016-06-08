@@ -36,3 +36,4 @@ Avatar  | Github | Blog | Description
 ![FaceBook](https://avatars0.githubusercontent.com/u/69631?v=3&s=80 "FaceBook") | https://github.com/facebook | https://code.facebook.com/mobile/ | buck
 Code Zen | | http://arpitonline.com/ | iOS Android
 ![Styling Android](https://lh3.googleusercontent.com/-8MrsyY2gqwM/AAAAAAAAAAI/AAAAAAAAAC4/fhUUNvYEqqo/s80-c-k-no/photo.jpg) | [Google Plus](https://plus.google.com/101161883485148457960?prsrc=3) | https://blog.stylingandroid.com/ | A techical guide to to improving the UI and UX Android apps
+![Amit Shekhar](https://cdn-images-1.medium.com/fit/c/60/60/1*W4FCg7GoG7uoTj_z1KEM1w.jpeg "Amit Shekhar") | https://github.com/amitshekhariitbhu | https://medium.com/@amitshekhar |  Android Networking
